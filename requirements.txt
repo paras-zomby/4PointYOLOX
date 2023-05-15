@@ -1,0 +1,14 @@
+# TODO: Update with exact module version
+numpy~=1.21.2
+torchvision~=0.11.2
+Pillow~=9.0.0
+
+# verified versions
+opencv-python~=4.5.5.62
+matplotlib~=3.5.1
+scikit-learn~=1.0.2
+imageio~=2.13.5
+
+pandas~=1.3.5
+ptflops~=0.6.7
+torchstat~=0.0.7
